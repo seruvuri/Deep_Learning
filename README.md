@@ -9,3 +9,5 @@ This Repository has all deep learnrinig topics with examples
 ## 3. Backward Propagation
 
 ## 4. Activation Functoin
+
+## 5. Optimizers
